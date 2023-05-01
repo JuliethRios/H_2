@@ -1,0 +1,802 @@
+[
+  {
+    "Año": 2016,
+    "Periodo": "Julio",
+    "Canarias": "1.140.679",
+    "Cataluña": "2.394.803",
+    "Comunidad Valenciana": "1.040.949",
+    "Islas Baleares": "2.359.490",
+    "Comunidad de Madrid": 514.073,
+    "Andalucía": "1.211.907"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Agosto",
+    "Canarias": "1.111.644",
+    "Cataluña": "2.501.193",
+    "Comunidad Valenciana": "1.117.241",
+    "Islas Baleares": "2.292.425",
+    "Comunidad de Madrid": 491.071,
+    "Andalucía": "1.374.753"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Septiembre",
+    "Canarias": 994.235,
+    "Cataluña": "1.876.937",
+    "Comunidad Valenciana": 779.057,
+    "Islas Baleares": "1.861.414",
+    "Comunidad de Madrid": 581.127,
+    "Andalucía": "1.117.892"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Octubre",
+    "Canarias": "1.270.466",
+    "Cataluña": "1.562.897",
+    "Comunidad Valenciana": 761.381,
+    "Islas Baleares": "1.242.445",
+    "Comunidad de Madrid": 584.304,
+    "Andalucía": "1.094.199"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Noviembre",
+    "Canarias": "1.162.023",
+    "Cataluña": "1.009.971",
+    "Comunidad Valenciana": 377.912,
+    "Islas Baleares": 152.665,
+    "Comunidad de Madrid": 454.904,
+    "Andalucía": 548.318
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Diciembre",
+    "Canarias": "1.250.412",
+    "Cataluña": 956.468,
+    "Comunidad Valenciana": 366.649,
+    "Islas Baleares": 101.338,
+    "Comunidad de Madrid": 431.82,
+    "Andalucía": 495.562
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Enero",
+    "Canarias": "1.193.435",
+    "Cataluña": 846.213,
+    "Comunidad Valenciana": 402.914,
+    "Islas Baleares": 107.156,
+    "Comunidad de Madrid": 489.884,
+    "Andalucía": 522.009
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Febrero",
+    "Canarias": "1.183.979",
+    "Cataluña": 989.198,
+    "Comunidad Valenciana": 429.384,
+    "Islas Baleares": 162.771,
+    "Comunidad de Madrid": 450.927,
+    "Andalucía": 584.543
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Marzo",
+    "Canarias": "1.283.939",
+    "Cataluña": "1.155.003",
+    "Comunidad Valenciana": 526.701,
+    "Islas Baleares": 325.442,
+    "Comunidad de Madrid": 478.054,
+    "Andalucía": 720.603
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Abril",
+    "Canarias": "1.255.062",
+    "Cataluña": "1.755.019",
+    "Comunidad Valenciana": 749.885,
+    "Islas Baleares": 998.445,
+    "Comunidad de Madrid": 672.738,
+    "Andalucía": "1.044.661"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Mayo",
+    "Canarias": 993.431,
+    "Cataluña": "1.920.946",
+    "Comunidad Valenciana": 918.843,
+    "Islas Baleares": "1.717.352",
+    "Comunidad de Madrid": 624.915,
+    "Andalucía": "1.176.002"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Junio",
+    "Canarias": "1.034.652",
+    "Cataluña": "2.026.356",
+    "Comunidad Valenciana": 873.923,
+    "Islas Baleares": "2.101.520",
+    "Comunidad de Madrid": 594.801,
+    "Andalucía": "1.164.980"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Julio",
+    "Canarias": "1.186.481",
+    "Cataluña": "2.557.125",
+    "Comunidad Valenciana": "1.217.502",
+    "Islas Baleares": "2.484.880",
+    "Comunidad de Madrid": 579.523,
+    "Andalucía": "1.356.267"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Agosto",
+    "Canarias": "1.165.967",
+    "Cataluña": "2.567.612",
+    "Comunidad Valenciana": "1.158.902",
+    "Islas Baleares": "2.352.198",
+    "Comunidad de Madrid": 530.335,
+    "Andalucía": "1.422.593"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Septiembre",
+    "Canarias": "1.111.400",
+    "Cataluña": "1.999.689",
+    "Comunidad Valenciana": 982.638,
+    "Islas Baleares": "2.009.288",
+    "Comunidad de Madrid": 639.12,
+    "Andalucía": "1.327.059"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Octubre",
+    "Canarias": "1.309.652",
+    "Cataluña": "1.497.032",
+    "Comunidad Valenciana": 812.655,
+    "Islas Baleares": "1.256.543",
+    "Comunidad de Madrid": 628.904,
+    "Andalucía": "1.119.427"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Noviembre",
+    "Canarias": "1.239.853",
+    "Cataluña": 981.462,
+    "Comunidad Valenciana": 452.023,
+    "Islas Baleares": 177.426,
+    "Comunidad de Madrid": 534.43,
+    "Andalucía": 569.632
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Diciembre",
+    "Canarias": "1.256.370",
+    "Cataluña": 822.765,
+    "Comunidad Valenciana": 400.59,
+    "Islas Baleares": 99.275,
+    "Comunidad de Madrid": 476.155,
+    "Andalucía": 510.486
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Enero",
+    "Canarias": "1.183.486",
+    "Cataluña": 864.798,
+    "Comunidad Valenciana": 450.874,
+    "Islas Baleares": 119.437,
+    "Comunidad de Madrid": 536.137,
+    "Andalucía": 538.026
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Febrero",
+    "Canarias": "1.192.866",
+    "Cataluña": "1.015.793",
+    "Comunidad Valenciana": 449.519,
+    "Islas Baleares": 156.311,
+    "Comunidad de Madrid": 485.81,
+    "Andalucía": 579.798
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Marzo",
+    "Canarias": "1.347.702",
+    "Cataluña": "1.217.330",
+    "Comunidad Valenciana": 625.46,
+    "Islas Baleares": 401.293,
+    "Comunidad de Madrid": 560.178,
+    "Andalucía": 787.749
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Abril",
+    "Canarias": "1.103.003",
+    "Cataluña": "1.570.899",
+    "Comunidad Valenciana": 769.612,
+    "Islas Baleares": 930.679,
+    "Comunidad de Madrid": 631.303,
+    "Andalucía": "1.044.566"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Mayo",
+    "Canarias": 967.209,
+    "Cataluña": "1.885.365",
+    "Comunidad Valenciana": 910.651,
+    "Islas Baleares": "1.708.101",
+    "Comunidad de Madrid": 659.045,
+    "Andalucía": "1.193.716"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Junio",
+    "Canarias": "1.001.434",
+    "Cataluña": "2.104.373",
+    "Comunidad Valenciana": 901.232,
+    "Islas Baleares": "2.121.434",
+    "Comunidad de Madrid": 603.147,
+    "Andalucía": "1.168.948"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Julio",
+    "Canarias": "1.120.219",
+    "Cataluña": "2.427.842",
+    "Comunidad Valenciana": "1.132.280",
+    "Islas Baleares": "2.429.816",
+    "Comunidad de Madrid": 619.516,
+    "Andalucía": "1.327.577"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Agosto",
+    "Canarias": "1.098.384",
+    "Cataluña": "2.433.300",
+    "Comunidad Valenciana": "1.175.555",
+    "Islas Baleares": "2.297.469",
+    "Comunidad de Madrid": 507.079,
+    "Andalucía": "1.424.410"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Septiembre",
+    "Canarias": "1.039.221",
+    "Cataluña": "2.007.474",
+    "Comunidad Valenciana": "1.005.841",
+    "Islas Baleares": "2.031.600",
+    "Comunidad de Madrid": 697.128,
+    "Andalucía": "1.319.350"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Octubre",
+    "Canarias": "1.257.744",
+    "Cataluña": "1.665.215",
+    "Comunidad Valenciana": 861.013,
+    "Islas Baleares": "1.284.111",
+    "Comunidad de Madrid": 709.987,
+    "Andalucía": "1.140.163"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Noviembre",
+    "Canarias": "1.184.564",
+    "Cataluña": "1.034.633",
+    "Comunidad Valenciana": 497.041,
+    "Islas Baleares": 188.018,
+    "Comunidad de Madrid": 603.691,
+    "Andalucía": 604.357
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Diciembre",
+    "Canarias": "1.256.190",
+    "Cataluña": 969.322,
+    "Comunidad Valenciana": 427.83,
+    "Islas Baleares": 183.329,
+    "Comunidad de Madrid": 526.753,
+    "Andalucía": 552.595
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Enero",
+    "Canarias": "1.158.782",
+    "Cataluña": 910.329,
+    "Comunidad Valenciana": 413.553,
+    "Islas Baleares": 141.922,
+    "Comunidad de Madrid": 584.339,
+    "Andalucía": 574.761
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Febrero",
+    "Canarias": "1.179.673",
+    "Cataluña": "1.030.292",
+    "Comunidad Valenciana": 459.309,
+    "Islas Baleares": 184.351,
+    "Comunidad de Madrid": 499.245,
+    "Andalucía": 626.983
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Marzo",
+    "Canarias": "1.340.619",
+    "Cataluña": "1.280.871",
+    "Comunidad Valenciana": 648.462,
+    "Islas Baleares": 365.813,
+    "Comunidad de Madrid": 683.364,
+    "Andalucía": 842.934
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Abril",
+    "Canarias": "1.105.470",
+    "Cataluña": "1.671.426",
+    "Comunidad Valenciana": 826.158,
+    "Islas Baleares": "1.081.557",
+    "Comunidad de Madrid": 640.694,
+    "Andalucía": "1.131.483"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Mayo",
+    "Canarias": 888.777,
+    "Cataluña": "1.835.129",
+    "Comunidad Valenciana": 857.711,
+    "Islas Baleares": "1.701.167",
+    "Comunidad de Madrid": 758.323,
+    "Andalucía": "1.204.749"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Junio",
+    "Canarias": 931.782,
+    "Cataluña": "2.176.726",
+    "Comunidad Valenciana": 938.591,
+    "Islas Baleares": "2.065.353",
+    "Comunidad de Madrid": 702.026,
+    "Andalucía": "1.243.394"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Julio",
+    "Canarias": "1.031.598",
+    "Cataluña": "2.378.593",
+    "Comunidad Valenciana": "1.243.375",
+    "Islas Baleares": "2.344.094",
+    "Comunidad de Madrid": 626.031,
+    "Andalucía": "1.256.656"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Agosto",
+    "Canarias": "1.040.312",
+    "Cataluña": "2.363.331",
+    "Comunidad Valenciana": "1.270.706",
+    "Islas Baleares": "2.256.991",
+    "Comunidad de Madrid": 542.359,
+    "Andalucía": "1.403.701"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Septiembre",
+    "Canarias": 952.069,
+    "Cataluña": "2.011.704",
+    "Comunidad Valenciana": "1.011.901",
+    "Islas Baleares": "2.006.475",
+    "Comunidad de Madrid": 667.799,
+    "Andalucía": "1.375.342"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Octubre",
+    "Canarias": "1.143.699",
+    "Cataluña": "1.676.430",
+    "Comunidad Valenciana": 870.088,
+    "Islas Baleares": "1.224.498",
+    "Comunidad de Madrid": 742.086,
+    "Andalucía": "1.191.120"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Noviembre",
+    "Canarias": "1.173.313",
+    "Cataluña": "1.047.153",
+    "Comunidad Valenciana": 541.121,
+    "Islas Baleares": 182.713,
+    "Comunidad de Madrid": 665.927,
+    "Andalucía": 614.169
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Diciembre",
+    "Canarias": "1.200.768",
+    "Cataluña": 993.169,
+    "Comunidad Valenciana": 454.52,
+    "Islas Baleares": 124.847,
+    "Comunidad de Madrid": 528.787,
+    "Andalucía": 557.861
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Enero",
+    "Canarias": "1.101.164",
+    "Cataluña": 870.157,
+    "Comunidad Valenciana": 433.023,
+    "Islas Baleares": 103.772,
+    "Comunidad de Madrid": 611.184,
+    "Andalucía": 605.451
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Febrero",
+    "Canarias": "1.170.238",
+    "Cataluña": 966.356,
+    "Comunidad Valenciana": 528.712,
+    "Islas Baleares": 185.554,
+    "Comunidad de Madrid": 518.594,
+    "Andalucía": 626.653
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Marzo",
+    "Canarias": 459.546,
+    "Cataluña": 399.14,
+    "Comunidad Valenciana": 248.509,
+    "Islas Baleares": 115.784,
+    "Comunidad de Madrid": 250.316,
+    "Andalucía": 298.332
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Abril",
+    "Canarias": 0,
+    "Cataluña": 0,
+    "Comunidad Valenciana": 0,
+    "Islas Baleares": 0,
+    "Comunidad de Madrid": 0,
+    "Andalucía": 0
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Mayo",
+    "Canarias": 0,
+    "Cataluña": 0,
+    "Comunidad Valenciana": 0,
+    "Islas Baleares": 0,
+    "Comunidad de Madrid": 0,
+    "Andalucía": 0
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Junio",
+    "Canarias": 2.201,
+    "Cataluña": 76.634,
+    "Comunidad Valenciana": 31.487,
+    "Islas Baleares": 28.382,
+    "Comunidad de Madrid": 20.522,
+    "Andalucía": 14.183
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Julio",
+    "Canarias": 215.6,
+    "Cataluña": 436.742,
+    "Comunidad Valenciana": 383.013,
+    "Islas Baleares": 588.431,
+    "Comunidad de Madrid": 76.239,
+    "Andalucía": 359.725
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Agosto",
+    "Canarias": 240.666,
+    "Cataluña": 459.271,
+    "Comunidad Valenciana": 430.092,
+    "Islas Baleares": 453.794,
+    "Comunidad de Madrid": 60.816,
+    "Andalucía": 364.111
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Septiembre",
+    "Canarias": 92.586,
+    "Cataluña": 276.064,
+    "Comunidad Valenciana": 185.256,
+    "Islas Baleares": 119.279,
+    "Comunidad de Madrid": 48.123,
+    "Andalucía": 179.214
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Octubre",
+    "Canarias": 136.896,
+    "Cataluña": 230.58,
+    "Comunidad Valenciana": 176.971,
+    "Islas Baleares": 84.139,
+    "Comunidad de Madrid": 39.575,
+    "Andalucía": 143.378
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Noviembre",
+    "Canarias": 160.662,
+    "Cataluña": 58.794,
+    "Comunidad Valenciana": 53.946,
+    "Islas Baleares": 20.102,
+    "Comunidad de Madrid": 32.799,
+    "Andalucía": 49.227
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Diciembre",
+    "Canarias": 207.064,
+    "Cataluña": 97.305,
+    "Comunidad Valenciana": 71.865,
+    "Islas Baleares": 22.083,
+    "Comunidad de Madrid": 47.885,
+    "Andalucía": 60.577
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Enero",
+    "Canarias": 86.569,
+    "Cataluña": 85.265,
+    "Comunidad Valenciana": 49.727,
+    "Islas Baleares": 15.166,
+    "Comunidad de Madrid": 45.559,
+    "Andalucía": 49.716
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Febrero",
+    "Canarias": 74.28,
+    "Cataluña": 54.02,
+    "Comunidad Valenciana": 28.066,
+    "Islas Baleares": 13.149,
+    "Comunidad de Madrid": 31.58,
+    "Andalucía": 28.661
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Marzo",
+    "Canarias": 100.524,
+    "Cataluña": 85.622,
+    "Comunidad Valenciana": 46.984,
+    "Islas Baleares": 65.661,
+    "Comunidad de Madrid": 69.366,
+    "Andalucía": 51.087
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Abril",
+    "Canarias": 109.468,
+    "Cataluña": 94.391,
+    "Comunidad Valenciana": 71.94,
+    "Islas Baleares": 124.674,
+    "Comunidad de Madrid": 65.385,
+    "Andalucía": 83.46
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Mayo",
+    "Canarias": 161.411,
+    "Cataluña": 251.546,
+    "Comunidad Valenciana": 141.684,
+    "Islas Baleares": 380.882,
+    "Comunidad de Madrid": 86.727,
+    "Andalucía": 166.33
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Junio",
+    "Canarias": 221.335,
+    "Cataluña": 404.172,
+    "Comunidad Valenciana": 271.158,
+    "Islas Baleares": 656.082,
+    "Comunidad de Madrid": 139.058,
+    "Andalucía": 296.044
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Julio",
+    "Canarias": 414.244,
+    "Cataluña": 814.31,
+    "Comunidad Valenciana": 607.214,
+    "Islas Baleares": "1.320.144",
+    "Comunidad de Madrid": 219.035,
+    "Andalucía": 554.924
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Agosto",
+    "Canarias": 569.207,
+    "Cataluña": "1.075.887",
+    "Comunidad Valenciana": 753.864,
+    "Islas Baleares": "1.307.422",
+    "Comunidad de Madrid": 231.052,
+    "Andalucía": 698.992
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Septiembre",
+    "Canarias": 611.161,
+    "Cataluña": 867.5,
+    "Comunidad Valenciana": 641.452,
+    "Islas Baleares": "1.167.388",
+    "Comunidad de Madrid": 258.039,
+    "Andalucía": 687.383
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Octubre",
+    "Canarias": 994.249,
+    "Cataluña": 855.17,
+    "Comunidad Valenciana": 641.189,
+    "Islas Baleares": "1.009.908",
+    "Comunidad de Madrid": 362.058,
+    "Andalucía": 811.534
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Noviembre",
+    "Canarias": "1.013.292",
+    "Cataluña": 604.925,
+    "Comunidad Valenciana": 383.274,
+    "Islas Baleares": 148.123,
+    "Comunidad de Madrid": 375.379,
+    "Andalucía": 485.504
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Diciembre",
+    "Canarias": 902.961,
+    "Cataluña": 558.631,
+    "Comunidad Valenciana": 383.074,
+    "Islas Baleares": 114.64,
+    "Comunidad de Madrid": 292.869,
+    "Andalucía": 332.828
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Enero",
+    "Canarias": 759.765,
+    "Cataluña": 463.661,
+    "Comunidad Valenciana": 281.261,
+    "Islas Baleares": 83.12,
+    "Comunidad de Madrid": 247.982,
+    "Andalucía": 323.896
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Febrero",
+    "Canarias": 968.004,
+    "Cataluña": 619.39,
+    "Comunidad Valenciana": 393.28,
+    "Islas Baleares": 149.626,
+    "Comunidad de Madrid": 282.713,
+    "Andalucía": 425.307
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Marzo",
+    "Canarias": "1.123.641",
+    "Cataluña": 703.849,
+    "Comunidad Valenciana": 490.751,
+    "Islas Baleares": 306.962,
+    "Comunidad de Madrid": 446.352,
+    "Andalucía": 609.437
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Abril",
+    "Canarias": "1.110.097",
+    "Cataluña": "1.157.526",
+    "Comunidad Valenciana": 783.987,
+    "Islas Baleares": "1.070.195",
+    "Comunidad de Madrid": 545.975,
+    "Andalucía": 907.596
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Mayo",
+    "Canarias": 883.472,
+    "Cataluña": "1.463.558",
+    "Comunidad Valenciana": 791.683,
+    "Islas Baleares": "1.630.559",
+    "Comunidad de Madrid": 568.155,
+    "Andalucía": "1.036.243"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Junio",
+    "Canarias": 900.683,
+    "Cataluña": "1.610.468",
+    "Comunidad Valenciana": 834.998,
+    "Islas Baleares": "1.958.645",
+    "Comunidad de Madrid": 605.218,
+    "Andalucía": "1.009.404"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Julio",
+    "Canarias": "1.028.960",
+    "Cataluña": "1.980.246",
+    "Comunidad Valenciana": "1.125.829",
+    "Islas Baleares": "2.273.064",
+    "Comunidad de Madrid": 625.696,
+    "Andalucía": "1.119.763"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Agosto",
+    "Canarias": "1.035.410",
+    "Cataluña": "1.891.176",
+    "Comunidad Valenciana": "1.058.896",
+    "Islas Baleares": "2.185.548",
+    "Comunidad de Madrid": 446.72,
+    "Andalucía": "1.285.299"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Septiembre",
+    "Canarias": 928.855,
+    "Cataluña": "1.652.459",
+    "Comunidad Valenciana": 945.556,
+    "Islas Baleares": "1.897.256",
+    "Comunidad de Madrid": 598.523,
+    "Andalucía": "1.115.222"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Octubre",
+    "Canarias": "1.184.501",
+    "Cataluña": "1.483.599",
+    "Comunidad Valenciana": 865.908,
+    "Islas Baleares": "1.352.359",
+    "Comunidad de Madrid": 688.517,
+    "Andalucía": "1.049.705"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Noviembre",
+    "Canarias": "1.185.851",
+    "Cataluña": 962.715,
+    "Comunidad Valenciana": 520.35,
+    "Islas Baleares": 165.403,
+    "Comunidad de Madrid": 541.889,
+    "Andalucía": 593.559
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Diciembre",
+    "Canarias": "1.219.933",
+    "Cataluña": 814.54,
+    "Comunidad Valenciana": 514.415,
+    "Islas Baleares": 130.799,
+    "Comunidad de Madrid": 440.848,
+    "Andalucía": 536.078
+  },
+  {
+    "Año": 2023,
+    "Periodo": "Enero",
+    "Canarias": "1.204.177",
+    "Cataluña": 798.331,
+    "Comunidad Valenciana": 480.302,
+    "Islas Baleares": 128.515,
+    "Comunidad de Madrid": 528.543,
+    "Andalucía": 571.873
+  },
+  {
+    "Año": 2023,
+    "Periodo": "Febrero",
+    "Canarias": "1.230.378",
+    "Cataluña": 924.464,
+    "Comunidad Valenciana": 483.006,
+    "Islas Baleares": 181.766,
+    "Comunidad de Madrid": 453.469,
+    "Andalucía": 611.588
+  }
+]
